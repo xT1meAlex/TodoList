@@ -1,0 +1,21 @@
+.app {
+  margin: 0 auto;
+  max-width: 1000px;
+}
+  
+.functionality-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.search-container{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  margin-top: 20px
+}
+
+#search-wrap{
+  width: 225px;
+}
